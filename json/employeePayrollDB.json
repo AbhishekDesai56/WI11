@@ -14,18 +14,6 @@
       "_profilePic": "../assets/profile-pictures/profile2.jpg"
     },
     {
-      "id": 2,
-      "_name": "Bill Gates",
-      "_gender": "male",
-      "_department": [
-        "Engineering"
-      ],
-      "_salary": "500000",
-      "_startDate": "29 Oct 2019",
-      "_note": "Terrific Engineer",
-      "_profilePic": "../assets/profile-pictures/Profile4.jpg"
-    },
-    {
       "_name": "Amarpa Shashanka Keerti Kumar",
       "_gender": "female",
       "_department": [
