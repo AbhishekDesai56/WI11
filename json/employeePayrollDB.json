@@ -36,6 +36,21 @@
       "_note": "",
       "_profilePic": "../assets/profile-pictures/Profile1.jpg",
       "id": 3
+    },
+    {
+      "_name": "A K Reddy",
+      "_profilePic": "../assets/profile-pictures/Profile1.jpg",
+      "_gender": "female",
+      "_department": [
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "_salary": "470900",
+      "_note": "Ok I Update",
+      "_startDate": "1 July 2021",
+      "id": 4
     }
   ]
 }
