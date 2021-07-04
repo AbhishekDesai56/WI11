@@ -11,7 +11,7 @@
       "_salary": "500000",
       "_startDate": "29 Oct 2019",
       "_note": "All In One",
-      "_profilePic": "../assets/profile-images/Ellipse -3.png"
+      "_profilePic": "../assets/profile-images/Profile2.png"
     },
     {
       "id": 2,
@@ -23,18 +23,18 @@
       "_salary": "500000",
       "_startDate": "29 Oct 2019",
       "_note": "Terrific Engineer",
-      "_profilePic": "../assets/profile-images/Ellipse -1.png"
+      "_profilePic": "../assets/profile-images/Profile4.png"
     },
     {
-      "_name": "Amarpa Shashanka Keerthi Kumar",
+      "_name": "Amarpa Shashanka Keerti Kumar",
       "_gender": "female",
       "_department": [
         "Sales"
       ],
       "_salary": "400000",
-      "_startDate": "29 Oct 2019",
+      "_startDate": "04 July 2021",
       "_note": "",
-      "_profilePic": "../assets/profile-images/Ellipse -1.png",
+      "_profilePic": "../assets/profile-images/Profile1.png",
       "id": 3
     }
   ]
